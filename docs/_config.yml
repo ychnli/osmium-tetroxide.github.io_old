@@ -21,9 +21,7 @@
 title: Yuchen Li
 email: yucli@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    Yuchen Li's blog. Tags: Yuchen, Yuchen Li, climate science, 
-    climate dynamics, climate research, physics, oceanography,
-    atmospheric science, birds, Stanford.
+    Yuchen Li's blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: YuchenL43214286
